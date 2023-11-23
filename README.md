@@ -1,5 +1,5 @@
 
-# Web-server/Private-server
+# Web-server/Public-server
 - sudo apt-get install nginx -y
 
 # app-server/Private-server
