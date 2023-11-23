@@ -1,4 +1,4 @@
-# web-server/Public-server
+# Mysql-Project
 - sudo apt-get install nginx -y
 
 # app-server/Private-server
