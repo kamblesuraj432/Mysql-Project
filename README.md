@@ -1,6 +1,5 @@
-# Mysql-Project
 
-# Mysql-Project
+# Web-server/Private-server
 - sudo apt-get install nginx -y
 
 # app-server/Private-server
