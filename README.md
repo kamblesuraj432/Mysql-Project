@@ -17,5 +17,5 @@
 - sudo service mysql restart
 - sudo service php8.1-fpm restart
 
-  # Please do not forgot to change the nginx config file to public service
+  # Please do not forgot to change the nginx config file to public server/web-server
   
