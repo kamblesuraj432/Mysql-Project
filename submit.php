@@ -7,10 +7,10 @@ $comment=$_POST["comment"];
 $gender=$_POST["gender"];
 
 
-$servername = "localhost";  // Enter Mysql endpoint here
+$servername = "mangal-db-1";  // Enter Mysql endpoint here
 $username = "root";        // Enter Mysql user name here
-$password = "pass123";  // Enter mysql Password here
-$dbname = "database-name";       // Enter mysql database name here
+$password = "suraj@123";  // Enter mysql Password here
+$dbname = "suraj";       // Enter mysql database name here
 
 // Create connection
 $conn = mysqli_connect($servername, $username, $password, $dbname);
