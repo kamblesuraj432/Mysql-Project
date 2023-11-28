@@ -7,7 +7,7 @@ $comment=$_POST["comment"];
 $gender=$_POST["gender"];
 
 
-$servername = "mangal-db-1";  // Enter Mysql endpoint here
+$servername = "mysql-server";  // Enter Mysql endpoint here
 $username = "root";        // Enter Mysql user name here
 $password = "suraj@123";  // Enter mysql Password here
 $dbname = "suraj";       // Enter mysql database name here
